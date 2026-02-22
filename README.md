@@ -80,5 +80,5 @@ Konsep:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repository.git
-cd nama-repository
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-3.git
+cd Tugas-Struktur-Data-Minggu-ke-3
